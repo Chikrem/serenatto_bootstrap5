@@ -23,7 +23,7 @@ Bem-vindo ao repositório do projeto da **Cafeteria Serenatto**! Este projeto é
 
 O projeto pode ser visualizado e testado em:
 
-- [Meteora - Vercel](https://meteora-bootstrap5-lemon.vercel.app/)
+- [Serenatto - Vercel](https://serenatto-bootstrap5.vercel.app/)
 
 ## Screenshots
 ![Screenshot da tela inicial do Serenatto Modo Claro.](assets/img1.png)
